@@ -1,4 +1,4 @@
-# test-project
+# mobx vue-cli example project
 
 > A Vue.js project
 
